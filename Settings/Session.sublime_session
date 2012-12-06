@@ -1,0 +1,1356 @@
+{
+	"folder_history":
+	[
+		"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen",
+		"/D/Workspace/Web/playlyfe"
+	],
+	"last_window_id": 11,
+	"settings":
+	{
+		"new_window_height": 710.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"pl",
+						"playlyfe-dev"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"client",
+						"clientList"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 310.0,
+				"selected_items":
+				[
+					[
+						"dri",
+						"Goto Drupal API"
+					],
+					[
+						"drupal",
+						"Goto Drupal API"
+					],
+					[
+						"colorp",
+						"Color picker"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"color",
+						"Snippet: color"
+					],
+					[
+						"emm",
+						"Emmet: Merge Lines"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"gitk",
+						"Git: Gitk"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"pc",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"ga",
+						"Git: Add..."
+					],
+					[
+						"dr",
+						"Goto Drupal API"
+					],
+					[
+						"adv",
+						"Package Control: Discover Packages"
+					],
+					[
+						"gl",
+						"Git: Log All"
+					],
+					[
+						"gadd",
+						"Git: Add..."
+					],
+					[
+						"g",
+						"Git: Status"
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"git res",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"drup",
+						"Goto Drupal API"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"brack",
+						"Bracket Highlighter: Fold by Brackets"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git:",
+						"Git: Add..."
+					],
+					[
+						"git:comm",
+						"Git: Commit history"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"",
+						"Bracket Highlighter: Select Tag"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"Git status",
+						"Git: Status"
+					],
+					[
+						"Git: add ",
+						"Git: Add..."
+					],
+					[
+						"Git: ",
+						"Git: Init"
+					]
+				],
+				"width": 426.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/Workspace/Web/playlyfe-dev/modules/field/field.module",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/includes/theme.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/field/field.api.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_typography.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/style.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/profile.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/nodes.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/template.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/includes/menu.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.module",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu-block-wrapper.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu_block.api.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/LICENSE.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/CHANGELOG.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu_block.admin.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/block/block.module",
+				"/D/Workspace/Web/playlyfe-dev/.gitignore",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/plugins/content_types/menu_tree/menu_tree.inc",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/page.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/Gamepocalypse.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/taxonomy-term.tpl.php",
+				"/W/prospects.txt",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+				"/C/Users/dev-2/Downloads/menu_block-7.x-2.3.tar/menu_block/menu_block.info",
+				"/C/Users/dev-2/Downloads/menu_block-7.x-2.3.tar/menu_block/menu_block.admin.inc",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/views/Core/layout.html.twig",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/config/routing.yml",
+				"/D/Workspace/Web/playlyfe-dev/modules/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/layouts/responsive-sidebars.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/comment-wrapper.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-project",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.test",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.install",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/region--footer.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/modules/block/block.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/README.txt",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/ApiBundle/Resources/config/routing.yml",
+				"/C/wamp/www/pl-theme/.htaccess",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_navigation.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/page.tpl.php",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/D/Workspace/Web/playlyfe/app/Resources/views/static.html.twig",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/_base.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/html.tpl.php",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/diff.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/STARTERKIT.info.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/STARTERKIT/templates/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/gamepocalypse.info",
+				"/D/Workspace/Web/node-chat/test.html",
+				"/D/Workspace/Web/node-chat/server.js",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/user-picture.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/REF.html",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/node.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/block.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-workspace",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/pages.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/playlyfe-theme.sublime-project",
+				"/C/wamp/www/tmdb/tmdb.js",
+				"/C/Users/dev-2/Dropbox/Playlyfe/Google File System",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/js/profile/modules/user.js",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/js/profile/modules/attribute.js",
+				"/D/Workspace/Web/playlyfe/app/Resources/views/fluid.html.twig",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_colors.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_layout.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/layouts/fixed-width.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass-extensions/zen-grids/stylesheets/zen/_grids.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/region.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_variables.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/print.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/tabs.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/tabs-rtl.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/wireframes.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/views-styles.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/layouts/responsive-sidebars.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/layouts/fixed-width.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/pages.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/navigation.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/config.rb",
+				"/C/Users/dev-2/AppData/Local/Temp/fbtmp/test.playlyfe.com/index.html",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/normalize.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/blocks.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_variables.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_mixins.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/_custom.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_core.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_colors.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/browser.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/REF.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/forms.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/fields.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/comments.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/template.theme-registry.inc",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/zen.drush.inc",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/template.zen.inc",
+				"/D/Workspace/Web/playlyfe-dev/themes/engines/phptemplate/phptemplate.engine",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/region--footer.tpl.php",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_navigation.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/playground.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/core/_icons.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/grinder.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/footer.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/content.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/banner.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_typography.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_utility.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/template.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/sass/layouts/responsive-sidebars.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/html.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/templates/page.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/template.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/theme-settings.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/template.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/Gamepocalypse.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/STARTERKIT/sass/layouts/responsive-sidebars.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/Gamepocalypse/sass/_base.scss"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ctrl+alt+d",
+					"ctrl+shift+d",
+					"ctrl+alt+d",
+					"menu_tree",
+					"wrapper",
+					"wrapper3",
+					"wrapper",
+					"template_prep",
+					"template_preprocess_menu_block_wrapper",
+					"plug",
+					"menu",
+					"solid",
+					"tag",
+					"navig",
+					"80",
+					"side",
+					"zen_preprocess_html",
+					"template_preprocess",
+					"template_pre",
+					"THEME_preprocess",
+					"template_pre",
+					"true",
+					"zen-grid-width",
+					"nav",
+					"body",
+					"class",
+					"classes",
+					"sideb",
+					"sidebar-second",
+					"sidebar",
+					"width",
+					"side-nav",
+					"side-nam",
+					"[",
+					"localhost"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"right"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.740518384314,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 270.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1350.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"cour",
+						"course-info"
+					],
+					[
+						"cou",
+						"course-info"
+					],
+					[
+						"course",
+						"course-info"
+					],
+					[
+						"data",
+						"dataTable"
+					],
+					[
+						"pl",
+						"playlyfe-dev"
+					],
+					[
+						"for",
+						"for	for (…) {…}"
+					],
+					[
+						"client",
+						"clientList"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "sass/pages.scss",
+					"settings":
+					{
+						"buffer_size": 4455,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "sass/layouts/responsive-sidebars.scss",
+					"settings":
+					{
+						"buffer_size": 5364,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "sass/sandbox/_typography.scss",
+					"settings":
+					{
+						"buffer_size": 1406,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 335.0,
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"dr",
+						"Goto Drupal API"
+					],
+					[
+						"gs",
+						"Git: Status"
+					],
+					[
+						"hunk",
+						"Git: Commit Selected Hunk"
+					],
+					[
+						"gc",
+						"Git: Commit"
+					],
+					[
+						"gh",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git",
+						"Git: Commit history"
+					],
+					[
+						"gg",
+						"Git: Graph All"
+					],
+					[
+						"git r",
+						"Git: Graph Current File"
+					],
+					[
+						"ga",
+						"Git: Add..."
+					],
+					[
+						"git show",
+						"Git: Show Tags"
+					],
+					[
+						"g",
+						"Git: Amend Commit"
+					],
+					[
+						"git hun",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"git hunk",
+						"Git: Add Selected Hunk"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"dri",
+						"Goto Drupal API"
+					],
+					[
+						"drupal",
+						"Goto Drupal API"
+					],
+					[
+						"colorp",
+						"Color picker"
+					],
+					[
+						"color",
+						"Snippet: color"
+					],
+					[
+						"emm",
+						"Emmet: Merge Lines"
+					],
+					[
+						"pack",
+						"Package Control: List Packages"
+					],
+					[
+						"gitk",
+						"Git: Gitk"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"pc",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"adv",
+						"Package Control: Discover Packages"
+					],
+					[
+						"gl",
+						"Git: Log All"
+					],
+					[
+						"gadd",
+						"Git: Add..."
+					],
+					[
+						"git add .",
+						"Git: Add..."
+					],
+					[
+						"git res",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"drup",
+						"Goto Drupal API"
+					],
+					[
+						"zen",
+						"Set Syntax: ZenCoding"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"brack",
+						"Bracket Highlighter: Fold by Brackets"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"git:",
+						"Git: Add..."
+					],
+					[
+						"git:comm",
+						"Git: Commit history"
+					],
+					[
+						"git:add",
+						"Git: Add..."
+					],
+					[
+						"",
+						"Bracket Highlighter: Select Tag"
+					],
+					[
+						"status",
+						"Git: Status"
+					],
+					[
+						"Git status",
+						"Git: Status"
+					],
+					[
+						"Git: add ",
+						"Git: Add..."
+					],
+					[
+						"Git: ",
+						"Git: Init"
+					]
+				],
+				"width": 440.0
+			},
+			"console":
+			{
+				"height": 146.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": false,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": true,
+				"side_bar_visible": true,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/wamp/www/pl-doc/sandbox.css",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/style.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/region--sidebar.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/template.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/page.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/node.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/pages.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/nodes.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/ApiBundle/Resources/config/routing_interaction.yml",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_tags.scss",
+				"/C/wamp/www/reg/widgets/dean/infoCourse.php",
+				"/D/Workspace/Web/RegistrationManagement/deanCP.php",
+				"/D/Workspace/Web/RegistrationManagement/widgets/dean/infoCourse.php",
+				"/W/prospects.txt",
+				"/D/Workspace/Design/Playlyfe/Apps/Save-Fuel/sprites.css",
+				"/C/Users/dev-2/Desktop/Airtel.txt",
+				"/C/Users/dev-2/Downloads/nathansmith-960-Grid-System-b0c5b98/nathansmith-960-Grid-System-b0c5b98/app_plugins/fireworks/INSTALL.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/_custom.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/.gitignore",
+				"/D/Workspace/Web/playlyfe-dev/modules/field/theme/field.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/modules/field/field.module",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/field--field-tags.tpl.php",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/browser.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/player_sandbox.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/playground.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/profile.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/fields.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_form.scss",
+				"/D/Workspace/Web/playlyfe-dev/modules/field/field.attach.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/taxonomy/taxonomy.module",
+				"/D/Workspace/Web/playlyfe-dev/modules/taxonomy/taxonomy-term.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/field.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_typography.scss",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/includes/theme.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/field/field.api.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/includes/menu.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.module",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu-block-wrapper.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu_block.api.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/LICENSE.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/CHANGELOG.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/menu_block.admin.inc",
+				"/D/Workspace/Web/playlyfe-dev/modules/block/block.module",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/modules/menu_block/plugins/content_types/menu_tree/menu_tree.inc",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/page.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/Gamepocalypse.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/taxonomy-term.tpl.php",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/BracketHighlighter.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+				"/C/Users/dev-2/Downloads/menu_block-7.x-2.3.tar/menu_block/menu_block.info",
+				"/C/Users/dev-2/Downloads/menu_block-7.x-2.3.tar/menu_block/menu_block.admin.inc",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/views/Core/layout.html.twig",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/config/routing.yml",
+				"/D/Workspace/Web/playlyfe-dev/modules/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/layouts/responsive-sidebars.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/comment-wrapper.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-project",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.test",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.install",
+				"/D/Workspace/Web/playlyfe-dev/modules/menu/menu.info",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/region--footer.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/modules/block/block.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/README.txt",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/ApiBundle/Resources/config/routing.yml",
+				"/C/wamp/www/pl-theme/.htaccess",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_navigation.scss",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+				"/D/Workspace/Web/playlyfe/app/Resources/views/static.html.twig",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/_base.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/html.tpl.php",
+				"/C/Users/dev-2/AppData/Roaming/Sublime Text 2/Packages/User/JSON.sublime-settings",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/diff.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/STARTERKIT.info.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/STARTERKIT/templates/README.txt",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/gamepocalypse.info",
+				"/D/Workspace/Web/node-chat/test.html",
+				"/D/Workspace/Web/node-chat/server.js",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/user-picture.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/REF.html",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/templates/block.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-workspace",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/playlyfe-theme.sublime-project",
+				"/C/wamp/www/tmdb/tmdb.js",
+				"/C/Users/dev-2/Dropbox/Playlyfe/Google File System",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/js/profile/modules/user.js",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/js/profile/modules/attribute.js",
+				"/D/Workspace/Web/playlyfe/app/Resources/views/fluid.html.twig",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_colors.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_layout.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/layouts/fixed-width.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass-extensions/zen-grids/stylesheets/zen/_grids.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/region.tpl.php",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_variables.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/print.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/tabs.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/tabs-rtl.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/wireframes.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/views-styles.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/layouts/responsive-sidebars.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/layouts/fixed-width.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/css/pages.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/navigation.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/config.rb",
+				"/C/Users/dev-2/AppData/Local/Temp/fbtmp/test.playlyfe.com/index.html",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/normalize.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/blocks.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_variables.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_mixins.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/_core.scss",
+				"/D/Workspace/Web/playlyfe/src/Playlyfe/BaseBundle/Resources/public/css/sandbox/_colors.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/sandbox/browser.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/REF.css",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/forms.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/sass/comments.scss",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/template.theme-registry.inc",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/zen.drush.inc",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/zen-internals/template.zen.inc",
+				"/D/Workspace/Web/playlyfe-dev/themes/engines/phptemplate/phptemplate.engine",
+				"/D/Workspace/Web/playlyfe-dev/sites/all/themes/zen/templates/region--footer.tpl.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"region-sidebar-second",
+					"template_pre",
+					"ctrl+alt+d",
+					"ctrl+shift+d",
+					"ctrl+alt+d",
+					"menu_tree",
+					"wrapper",
+					"wrapper3",
+					"wrapper",
+					"template_prep",
+					"template_preprocess_menu_block_wrapper",
+					"plug",
+					"menu",
+					"solid",
+					"tag",
+					"navig",
+					"80",
+					"side",
+					"zen_preprocess_html",
+					"template_preprocess",
+					"template_pre",
+					"THEME_preprocess",
+					"template_pre",
+					"true",
+					"zen-grid-width",
+					"nav",
+					"body",
+					"class",
+					"classes",
+					"sideb",
+					"sidebar-second",
+					"sidebar",
+					"width",
+					"side-nav",
+					"side-nam",
+					"[",
+					"localhost"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"right"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "sass/pages.scss",
+							"settings":
+							{
+								"buffer_size": 4455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4266,
+										4266
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3672.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "sass/layouts/responsive-sidebars.scss",
+							"settings":
+							{
+								"buffer_size": 5364,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5230,
+										5230
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3372.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+						{
+							"buffer": 2,
+							"file": "sass/sandbox/_typography.scss",
+							"settings":
+							{
+								"buffer_size": 1406,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										469,
+										469
+									]
+								],
+								"settings":
+								{
+									"annotations":
+									[
+										"TODO",
+										"README",
+										"FIXME"
+									],
+									"csslint_options":
+									{
+										"adjoining-classes": "warning",
+										"box-model": true,
+										"box-sizing": "warning",
+										"compatible-vendor-prefixes": "warning",
+										"display-property-grouping": true,
+										"duplicate-background-images": "warning",
+										"duplicate-properties": true,
+										"empty-rules": true,
+										"errors": true,
+										"fallback-colors": "warning",
+										"floats": "warning",
+										"font-faces": "warning",
+										"font-sizes": "warning",
+										"gradients": "warning",
+										"ids": "warning",
+										"import": "warning",
+										"important": "warning",
+										"known-properties": true,
+										"outline-none": "warning",
+										"overqualified-elements": "warning",
+										"qualified-headings": "warning",
+										"regex-selectors": "warning",
+										"rules-count": "warning",
+										"shorthand": "warning",
+										"star-property-hack": "warning",
+										"text-indent": "warning",
+										"underscore-property-hack": "warning",
+										"unique-headings": "warning",
+										"universal-selector": "warning",
+										"vendor-prefix": true,
+										"zero-units": "warning"
+									},
+									"gjslint_ignore":
+									[
+										110
+									],
+									"gjslint_options":
+									[
+									],
+									"javascript_linter": "jshint",
+									"jshint_options":
+									{
+										"browser": true,
+										"evil": true,
+										"regexdash": true,
+										"sub": true,
+										"trailing": true,
+										"wsh": true
+									},
+									"pep8": true,
+									"pep8_ignore":
+									[
+										"E501"
+									],
+									"perl_linter": "perlcritic",
+									"pyflakes_ignore":
+									[
+									],
+									"pyflakes_ignore_import_*": true,
+									"sublimelinter": true,
+									"sublimelinter_delay": 2,
+									"sublimelinter_disable":
+									[
+									],
+									"sublimelinter_executable_map":
+									{
+									},
+									"sublimelinter_fill_outlines": false,
+									"sublimelinter_gutter_marks": false,
+									"sublimelinter_mark_style": "outline",
+									"sublimelinter_notes": false,
+									"sublimelinter_objj_check_ascii": false,
+									"sublimelinter_popup_errors_on_save": false,
+									"sublimelinter_syntax_map":
+									{
+										"C++": "c",
+										"Python Django": "python",
+										"Ruby on Rails": "ruby"
+									},
+									"sublimelinter_wrap_find": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 34.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.497411561691,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"position": "0,2,3,-32000,-32000,-1,-1,728,0,0,1366",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 207.0,
+			"status_bar_visible": true,
+			"window_id": 4,
+			"workspace_name": "/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-project"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/Workspace/Web/playlyfe-dev/sites/all/themes/gamepocalypse/playlyfe-theme.sublime-project",
+			"/D/Workspace/Web/playlyfe/playlyfe.sublime-project",
+			"/D/Workspace/Web/playlyfe-dev/sites/all/themes/playlyfe-theme.sublime-project"
+		]
+	}
+}
