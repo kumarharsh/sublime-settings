@@ -1,0 +1,9 @@
+{
+	"breaks":
+	{
+	},
+	"chrome_path":
+	{
+		"linux": "google-chrome"
+	}
+}
